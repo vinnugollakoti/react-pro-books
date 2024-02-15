@@ -1,0 +1,7 @@
+.div2 {
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    width: 1170px;
+}
